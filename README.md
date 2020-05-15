@@ -1,7 +1,12 @@
 # Emotion_Recognizer
 
 This repo comtains a program that tells predicts the user's mood/emotion based on the facial expression using the webcam.
-It is trained with the data set provided by: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+<br>
+It is trained with the data set provided by: 
+<br>https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+<br>
+The Harrcascade File can be downloaded from the floowing link:
+<br>https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 
 In order to run the program, first run the emotion_test.py file then run the emotion_analyzer.py file.
 
